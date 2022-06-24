@@ -1,0 +1,6 @@
+2022-06-24 14:28:24 INFO  Log4j:19 - entere tuşu ile diğer sayfaya giriş yapıldı
+2022-06-24 14:28:33 INFO  Log4j:19 - Scroll edildi
+2022-06-24 14:28:36 INFO  Log4j:19 - Random Ürün Seçildi
+2022-06-24 14:28:58 INFO  Log4j:19 - Ürün Fiyatı ile Sepetteki Fiyat Karşılaştırıldı
+2022-06-24 14:29:00 INFO  Log4j:19 - Ürün Adeti Arttırıldı
+2022-06-24 14:29:03 INFO  Log4j:19 - Ürün Boş Kontrolü Yapıldı
